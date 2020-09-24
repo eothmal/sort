@@ -28,9 +28,9 @@
       <recent name="C:\Dev\cygwin64\home\eothmal\course\sort\sort\src\com\sample\sort\d\shell" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sample.sort.b.bubble.Main" />
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sample.sort.f.quick.Main" />
       <module name="sort" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
@@ -76,56 +76,68 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.MainEarlyStop" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.MainEarlyStop" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="WindowStateProjectService">
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1600962898656">
+    <state x="321" y="77" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600977158635">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600962898656" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1600962898656">
+    <state x="321" y="77" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680@0.0.1280.680" timestamp="1600977158635" />
+    <state x="353" y="159" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1600984912990">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1600962898656" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1600962898656">
+    <state x="353" y="159" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1280.680@0.0.1280.680" timestamp="1600984912990" />
+    <state x="396" y="44" key="#xdebugger.evaluate" timestamp="1600984812059">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1600962898656" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1600962898656">
+    <state x="396" y="44" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1600984812059" />
+    <state width="1237" height="162" key="GridCell.Tab.0.bottom" timestamp="1600988720296">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1600962898656" />
-    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1600962465210">
+    <state width="1237" height="162" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600988720296" />
+    <state width="1237" height="162" key="GridCell.Tab.0.center" timestamp="1600988720296">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600962465210" />
-    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1600962465210">
+    <state width="1237" height="162" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1600988720296" />
+    <state width="1237" height="162" key="GridCell.Tab.0.left" timestamp="1600988720296">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1600962465210" />
-    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1600962465210">
+    <state width="1237" height="162" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1600988720296" />
+    <state width="1237" height="162" key="GridCell.Tab.0.right" timestamp="1600988720296">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1600962465210" />
-    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1600962465210">
+    <state width="1237" height="162" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1600988720296" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1600985984248">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1600962465210" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600985984248" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1600985984248">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1600985984248" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1600985984248">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1600985984248" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1600985984248">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1600985984248" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1600961457952">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -138,6 +150,11 @@
           <url>file://$PROJECT_DIR$/src/com/sample/sort/e/merge/Main.java</url>
           <line>64</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/sample/sort/f/quick/Main.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

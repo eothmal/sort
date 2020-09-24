@@ -39,7 +39,7 @@ public class Main {
             }
         }
         if (secondHalfIndex < listSecondHalf.length){
-            while (mergeIndex < listSecondHalf.length){
+            while (mergeIndex < listToSort.length){
                 listToSort[mergeIndex++] = listSecondHalf[secondHalfIndex++];
             }
         }
@@ -70,7 +70,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        String unsortedList[] = new String[]{"Ferry", "Debie",
+        String[] unsortedList = new String[]{"Ferry", "Debbie",
                 "Alex", "Jim",
                 "Ely", "Irina",
                 "George", "Big",
