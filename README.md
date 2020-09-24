@@ -10,4 +10,5 @@
 - Merge Sort
   O(N * log N) Divide and conquer algorithm for sorting
 - Quick Sort
+  O(N * log N) Divide and coquer sorting technique
 
