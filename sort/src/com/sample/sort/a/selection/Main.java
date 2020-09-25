@@ -1,4 +1,4 @@
-package com.sample.sort.a.insert;
+package com.sample.sort.a.selection;
 
 import java.util.Arrays;
 
