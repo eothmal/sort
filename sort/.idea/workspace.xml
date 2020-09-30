@@ -21,48 +21,65 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.sample.sort.cd.merge" />
       <recent name="com.sample.sort.b.bubble" />
+      <recent name="com.sample.sort.a.selection" />
+      <recent name="com.sample.sort.cd.merge" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Dev\cygwin64\home\eothmal\course\sort\sort\src\com\sample\sort\d\shell" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sample.sort.f.quick.Main" />
+  <component name="RunManager" selected="Application.MainTest (2)">
+    <configuration name="MainLambda (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sample.sort.a.selection.MainLambda" />
       <module name="sort" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sample.sort.c.insert.Main" />
+    <configuration name="MainLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sample.sort.a.selection.MainLambda" />
       <module name="sort" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sample.sort.cd.merge.Main" />
+    <configuration name="MainLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sample.sort.b.bubble.MainLambda" />
       <module name="sort" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sample.sort.e.merge.Main" />
+    <configuration name="MainStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sample.sort.a.selection.MainStream" />
       <module name="sort" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainEarlyStop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sample.sort.b.bubble.MainEarlyStop" />
+    <configuration name="MainTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sample.sort.b.bubble.MainTest" />
+      <module name="sort" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sample.sort.c.insert.MainTest" />
+      <module name="sort" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sample.sort.a.selection.MainTest" />
       <module name="sort" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
@@ -76,24 +93,28 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (3)" />
-      <item itemvalue="Application.Main (4)" />
-      <item itemvalue="Application.MainEarlyStop" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.MainLambda" />
+      <item itemvalue="Application.MainLambda (1)" />
+      <item itemvalue="Application.MainTest" />
+      <item itemvalue="Application.MainTest (1)" />
+      <item itemvalue="Application.MainTest (2)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.MainEarlyStop" />
+        <item itemvalue="Application.MainTest (2)" />
+        <item itemvalue="Application.MainTest (1)" />
+        <item itemvalue="Application.MainTest" />
+        <item itemvalue="Application.MainLambda (1)" />
+        <item itemvalue="Application.MainLambda" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="WindowStateProjectService">
+    <state x="446" y="47" key="#com.intellij.ide.util.MemberChooser" timestamp="1601044949844">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="47" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1601044949844" />
     <state x="321" y="77" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600977158635">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -106,38 +127,38 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="396" y="44" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1600984812059" />
-    <state width="1237" height="162" key="GridCell.Tab.0.bottom" timestamp="1600988720296">
+    <state width="1237" height="204" key="GridCell.Tab.0.bottom" timestamp="1601321530052">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="162" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600988720296" />
-    <state width="1237" height="162" key="GridCell.Tab.0.center" timestamp="1600988720296">
+    <state width="1237" height="204" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1601321530052" />
+    <state width="1237" height="204" key="GridCell.Tab.0.center" timestamp="1601321530051">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="162" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1600988720296" />
-    <state width="1237" height="162" key="GridCell.Tab.0.left" timestamp="1600988720296">
+    <state width="1237" height="204" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1601321530051" />
+    <state width="1237" height="204" key="GridCell.Tab.0.left" timestamp="1601321530051">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="162" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1600988720296" />
-    <state width="1237" height="162" key="GridCell.Tab.0.right" timestamp="1600988720296">
+    <state width="1237" height="204" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1601321530051" />
+    <state width="1237" height="204" key="GridCell.Tab.0.right" timestamp="1601321530052">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="162" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1600988720296" />
-    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1600985984248">
+    <state width="1237" height="204" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1601321530052" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1601321530052">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600985984248" />
-    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1600985984248">
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1601321530052" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1601321530052">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1600985984248" />
-    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1600985984248">
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1601321530052" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1601321530052">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1600985984248" />
-    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1600985984248">
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1601321530052" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1601321530052">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1600985984248" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1601321530052" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1600961457952">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -155,6 +176,11 @@
           <url>file://$PROJECT_DIR$/src/com/sample/sort/f/quick/Main.java</url>
           <line>17</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/sample/sort/c/insert/MainTest.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
