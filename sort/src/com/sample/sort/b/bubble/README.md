@@ -8,7 +8,7 @@ Bubble sort, sometimes referred to as sinking sort, is a simple sorting algorith
 
 [4, 5, 3, 2, 1, 0, 6, 8, 9, 7]
 
-i = 9
+i = 9  
 No swap at position : 0 and 1   
 Swapping at position: 1 and 2  
 [4, 3, 5, 2, 1, 0, 6, 8, 9, 7]  
