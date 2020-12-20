@@ -29,33 +29,25 @@
       <recent name="C:\Dev\cygwin64\home\eothmal\course\sort\sort\src\com\sample\sort\d\shell" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainTest (2)">
-    <configuration name="MainLambda (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sample.sort.a.selection.MainLambda" />
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sample.sort.c.insert.Main" />
       <module name="sort" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sample.sort.a.selection.MainLambda" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sample.sort.b.bubble.Main" />
       <module name="sort" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sample.sort.b.bubble.MainLambda" />
-      <module name="sort" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sample.sort.a.selection.MainStream" />
+    <configuration name="MainEarlyStop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sample.sort.b.bubble.MainEarlyStop" />
       <module name="sort" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
@@ -78,14 +70,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sample.sort.a.selection.MainTest" />
-      <module name="sort" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
@@ -93,19 +77,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MainLambda" />
-      <item itemvalue="Application.MainLambda (1)" />
-      <item itemvalue="Application.MainTest" />
       <item itemvalue="Application.MainTest (1)" />
       <item itemvalue="Application.MainTest (2)" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.MainEarlyStop" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.MainEarlyStop" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.MainTest (2)" />
         <item itemvalue="Application.MainTest (1)" />
-        <item itemvalue="Application.MainTest" />
-        <item itemvalue="Application.MainLambda (1)" />
-        <item itemvalue="Application.MainLambda" />
       </list>
     </recent_temporary>
   </component>
@@ -127,22 +111,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="396" y="44" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1600984812059" />
-    <state width="1237" height="204" key="GridCell.Tab.0.bottom" timestamp="1601321530052">
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom" timestamp="1602181146254">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1601321530052" />
-    <state width="1237" height="204" key="GridCell.Tab.0.center" timestamp="1601321530051">
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602181146254" />
+    <state width="1237" height="176" key="GridCell.Tab.0.center" timestamp="1602181146254">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1601321530051" />
-    <state width="1237" height="204" key="GridCell.Tab.0.left" timestamp="1601321530051">
+    <state width="1237" height="176" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1602181146254" />
+    <state width="1237" height="176" key="GridCell.Tab.0.left" timestamp="1602181146254">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1601321530051" />
-    <state width="1237" height="204" key="GridCell.Tab.0.right" timestamp="1601321530052">
+    <state width="1237" height="176" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1602181146254" />
+    <state width="1237" height="176" key="GridCell.Tab.0.right" timestamp="1602181146254">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1601321530052" />
+    <state width="1237" height="176" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1602181146254" />
     <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1601321530052">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
