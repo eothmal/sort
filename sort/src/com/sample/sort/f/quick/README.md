@@ -12,48 +12,49 @@ The list is partitioned with all elements smaller than the pivot on the other.
 The worst case time complexity is O(N^2)
 The average case time complexity is O(N logN)
 
-[Ferry, Debbie, Alex, Jim, Ely, Irina, George, Big, Martha, Chuck]
+Example:  `
+[Ferry, Debbie, Alex, Jim, Ely, Irina, George, Big, Martha, Chuck]  
 
-Pivot = Ferry
-Swapping: 3 and 9 
-[Ferry, Debbie, Alex, Chuck, Ely, Irina, George, Big, Martha, Jim]
+Pivot = Ferry  
+Swapping: 3 and 9  
+[Ferry, Debbie, Alex, Chuck, Ely, Irina, George, Big, Martha, Jim]  
 Swapping: 5 and 7 
-[Ferry, Debbie, Alex, Chuck, Ely, Big, George, Irina, Martha, Jim]
-Swapping: 0 and 5 
-[Big, Debbie, Alex, Chuck, Ely, Ferry, George, Irina, Martha, Jim]
+[Ferry, Debbie, Alex, Chuck, Ely, Big, George, Irina, Martha, Jim]  
+Swapping: 0 and 5   
+[Big, Debbie, Alex, Chuck, Ely, Ferry, George, Irina, Martha, Jim]  
 
-Partitioned: [Big, Debbie, Alex, Chuck, Ely, Ferry, George, Irina, Martha, Jim] around pivot: Ferry
+Partitioned: [Big, Debbie, Alex, Chuck, Ely, Ferry, George, Irina, Martha, Jim] around pivot: Ferry  
 
-Pivot = Big
-Swapping: 1 and 2 
-[Big, Alex, Debbie, Chuck, Ely, Ferry, George, Irina, Martha, Jim]
-Swapping: 0 and 1 
-[Alex, Big, Debbie, Chuck, Ely, Ferry, George, Irina, Martha, Jim]
+Pivot = Big  
+Swapping: 1 and 2   
+[Big, Alex, Debbie, Chuck, Ely, Ferry, George, Irina, Martha, Jim]  
+Swapping: 0 and 1   
+[Alex, Big, Debbie, Chuck, Ely, Ferry, George, Irina, Martha, Jim]  
 
-Partitioned: [Alex, Big, Debbie, Chuck, Ely, Ferry, George, Irina, Martha, Jim] around pivot: Big
+Partitioned: [Alex, Big, Debbie, Chuck, Ely, Ferry, George, Irina, Martha, Jim] around pivot: Big  
 
-Pivot = Debbie
-Swapping: 2 and 3 
-[Alex, Big, Chuck, Debbie, Ely, Ferry, George, Irina, Martha, Jim]
+Pivot = Debbie  
+Swapping: 2 and 3  
+[Alex, Big, Chuck, Debbie, Ely, Ferry, George, Irina, Martha, Jim]  
 
-Partitioned: [Alex, Big, Chuck, Debbie, Ely, Ferry, George, Irina, Martha, Jim] around pivot: Debbie
+Partitioned: [Alex, Big, Chuck, Debbie, Ely, Ferry, George, Irina, Martha, Jim] around pivot: Debbie  
 
-Pivot = George
-Swapping: 6 and 6 
-[Alex, Big, Chuck, Debbie, Ely, Ferry, George, Irina, Martha, Jim]
+Pivot = George  
+Swapping: 6 and 6   
+[Alex, Big, Chuck, Debbie, Ely, Ferry, George, Irina, Martha, Jim]  
 
-Partitioned: [Alex, Big, Chuck, Debbie, Ely, Ferry, George, Irina, Martha, Jim] around pivot: George
+Partitioned: [Alex, Big, Chuck, Debbie, Ely, Ferry, George, Irina, Martha, Jim] around pivot: George  
 
-Pivot = Irina
-Swapping: 7 and 7 
-[Alex, Big, Chuck, Debbie, Ely, Ferry, George, Irina, Martha, Jim]
+Pivot = Irina  
+Swapping: 7 and 7   
+[Alex, Big, Chuck, Debbie, Ely, Ferry, George, Irina, Martha, Jim]  
 
-Partitioned: [Alex, Big, Chuck, Debbie, Ely, Ferry, George, Irina, Martha, Jim] around pivot: Irina
+Partitioned: [Alex, Big, Chuck, Debbie, Ely, Ferry, George, Irina, Martha, Jim] around pivot: Irina  
 
-Pivot = Martha
-Swapping: 8 and 9 
-[Alex, Big, Chuck, Debbie, Ely, Ferry, George, Irina, Jim, Martha]
+Pivot = Martha  
+Swapping: 8 and 9   
+[Alex, Big, Chuck, Debbie, Ely, Ferry, George, Irina, Jim, Martha]  
 
-Partitioned: [Alex, Big, Chuck, Debbie, Ely, Ferry, George, Irina, Jim, Martha] around pivot: Martha
+Partitioned: [Alex, Big, Chuck, Debbie, Ely, Ferry, George, Irina, Jim, Martha] around pivot: Martha  
 
-[Alex, Big, Chuck, Debbie, Ely, Ferry, George, Irina, Jim, Martha]
+[Alex, Big, Chuck, Debbie, Ely, Ferry, George, Irina, Jim, Martha]  

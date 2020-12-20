@@ -37,19 +37,19 @@ Compare: 0 and 1
 Compare: 1 and 2   
 Compare: 2 and 3   
 Compare: 3 and 4   <-> Swapped!  
-[2, 3, 4, 1, 5, 0, 6, 8, 9, 7]
+[2, 3, 4, 1, 5, 0, 6, 8, 9, 7]  
 
-i = 3
+i = 3  
 Compare: 0 and 1   
 Compare: 1 and 2   
 Compare: 2 and 3   <-> Swapped!  
-[2, 3, 1, 4, 5, 0, 6, 8, 9, 7]
+[2, 3, 1, 4, 5, 0, 6, 8, 9, 7]  
 
-i = 2
+i = 2  
 Compare: 0 and 1   
 Compare: 1 and 2   <-> Swapped!  
-[2, 1, 3, 4, 5, 0, 6, 8, 9, 7]
+[2, 1, 3, 4, 5, 0, 6, 8, 9, 7]  
 
-i = 1
+i = 1  
 Compare: 0 and 1   <-> Swapped!  
-[1, 2, 3, 4, 5, 0, 6, 8, 9, 7]
+[1, 2, 3, 4, 5, 0, 6, 8, 9, 7]  
