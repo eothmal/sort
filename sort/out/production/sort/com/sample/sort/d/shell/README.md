@@ -18,7 +18,7 @@ i = 0 increment = 5
 i = 1 increment = 5  
 
 i = 2 increment = 5  
-Swapping 7 and 2 
+Swapping 7 and 2   
 [60, 70, 80, 40, 30, 90, 50, 120, 100, 110]  
 
 i = 3 increment = 5  
@@ -87,5 +87,5 @@ i = 8 increment = 1
 Swapping 9 and 8   
 [30, 40, 50, 60, 70, 80, 90, 110, 100, 120]  
 Swapping 8 and 7  
-[30, 40, 50, 60, 70, 80, 90, 100, 110, 12  
+[30, 40, 50, 60, 70, 80, 90, 100, 110, 120]  
  

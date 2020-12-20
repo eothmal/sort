@@ -5,51 +5,38 @@ It is an adaptive sort - when the list is sorted, it is possible to break out of
 
 Bubble sort, sometimes referred to as sinking sort, is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order. The pass through the list is repeated until the list is sorted. The algorithm, which is a comparison sort, is named for the way smaller or larger elements "bubble" to the top of the list.
   
-Example:  
-[4, 5, 3, 2, 1, 0, 6, 8, 9, 7]  
+Example:
+Early Stop  
+[60, 70, 80, 40, 30, 90, 120, 50, 100, 110]  
 
 i = 9  
-Compare: 0 and 1     
-Compare: 1 and 2   <-> Swapped!    
-[4, 3, 5, 2, 1, 0, 6, 8, 9, 7]  
+Swapping: 2 and 3   
+[60, 70, 40, 80, 30, 90, 120, 50, 100, 110]  
 
 i = 8  
-Compare: 0 and 1   <-> Swapped!    
-[3, 4, 5, 2, 1, 0, 6, 8, 9, 7]  
+Swapping: 1 and 2  
+[60, 40, 70, 80, 30, 90, 120, 50, 100, 110]  
 
 i = 7  
-Compare: 0 and 1     
-Compare: 1 and 2     
-Compare: 2 and 3   <-> Swapped!    
-[3, 4, 2, 5, 1, 0, 6, 8, 9, 7]  
+Swapping: 0 and 1   
+[40, 60, 70, 80, 30, 90, 120, 50, 100, 110]  
 
 i = 6  
-Compare: 0 and 1     
-Compare: 1 and 2   <-> Swapped!    
-[3, 2, 4, 5, 1, 0, 6, 8, 9, 7]  
+Swapping: 3 and 4 
+[40, 60, 70, 30, 80, 90, 120, 50, 100, 110]  
 
 i = 5  
-Compare: 0 and 1   <-> Swapped!    
-[2, 3, 4, 5, 1, 0, 6, 8, 9, 7]  
+Swapping: 2 and 3 
+[40, 60, 30, 70, 80, 90, 120, 50, 100, 110]  
 
 i = 4  
-Compare: 0 and 1     
-Compare: 1 and 2   
-Compare: 2 and 3   
-Compare: 3 and 4   <-> Swapped!  
-[2, 3, 4, 1, 5, 0, 6, 8, 9, 7]  
+Swapping: 1 and 2   
+[40, 30, 60, 70, 80, 90, 120, 50, 100, 110]  
 
 i = 3  
-Compare: 0 and 1   
-Compare: 1 and 2   
-Compare: 2 and 3   <-> Swapped!  
-[2, 3, 1, 4, 5, 0, 6, 8, 9, 7]  
+Swapping: 0 and 1   
+[30, 40, 60, 70, 80, 90, 120, 50, 100, 110]  
 
 i = 2  
-Compare: 0 and 1   
-Compare: 1 and 2   <-> Swapped!  
-[2, 1, 3, 4, 5, 0, 6, 8, 9, 7]  
 
 i = 1  
-Compare: 0 and 1   <-> Swapped!  
-[1, 2, 3, 4, 5, 0, 6, 8, 9, 7]  
