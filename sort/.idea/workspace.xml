@@ -29,7 +29,7 @@
       <recent name="C:\Dev\cygwin64\home\eothmal\course\sort\sort\src\com\sample\sort\d\shell" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.MainEarlyStop">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sample.sort.c.insert.Main" />
       <module name="sort" />
@@ -62,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sample.sort.c.insert.MainTest" />
+    <configuration name="MainEarlyStop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sample.sort.b.bubble.MainEarlyStop" />
       <module name="sort" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
@@ -77,19 +77,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MainTest (2)" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.MainEarlyStop" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainEarlyStop" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.MainTest (2)" />
       </list>
     </recent_temporary>
   </component>

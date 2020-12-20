@@ -9,42 +9,42 @@ The complexity if mere sort is O(N logN).
 - Merge sort is not adaptive. 
 - it is a stable sort.
 - It take O(N) extra space when we use array (all smaller lists we create in the divide phase)
+  
+Example:  
+[Ferry, Debbie, Alex, Jim, Ely, Irina, George, Big, Martha, Chuck]  
 
-Example:
-[Ferry, Debbie, Alex, Jim, Ely, Irina, George, Big, Martha, Chuck]
+ Split: [Ferry, Debbie, Alex, Jim, Ely]  [Irina, George, Big, Martha, Chuck]  
 
- Split: [Ferry, Debbie, Alex, Jim, Ely]  [Irina, George, Big, Martha, Chuck]
+ Split: [Ferry, Debbie, Alex]  [Jim, Ely]  
 
- Split: [Ferry, Debbie, Alex]  [Jim, Ely]
+ Split: [Ferry, Debbie]  [Alex]  
 
- Split: [Ferry, Debbie]  [Alex]
+ Split: [Ferry]  [Debbie]  
 
- Split: [Ferry]  [Debbie]
+Merged: [Debbie, Ferry]  
 
-Merged: [Debbie, Ferry]
+Merged: [Alex, Debbie, Ferry]  
 
-Merged: [Alex, Debbie, Ferry]
+ Split: [Jim]  [Ely]  
 
- Split: [Jim]  [Ely]
+Merged: [Ely, Jim]  
 
-Merged: [Ely, Jim]
+Merged: [Alex, Debbie, Ely, Ferry, Jim]  
 
-Merged: [Alex, Debbie, Ely, Ferry, Jim]
+ Split: [Irina, George, Big]  [Martha, Chuck]  
 
- Split: [Irina, George, Big]  [Martha, Chuck]
+ Split: [Irina, George]  [Big]  
 
- Split: [Irina, George]  [Big]
+ Split: [Irina]  [George]  
 
- Split: [Irina]  [George]
+Merged: [George, Irina]  
 
-Merged: [George, Irina]
+Merged: [Big, George, Irina]  
 
-Merged: [Big, George, Irina]
+ Split: [Martha]  [Chuck]  
 
- Split: [Martha]  [Chuck]
+Merged: [Chuck, Martha]  
 
-Merged: [Chuck, Martha]
+Merged: [Big, Chuck, George, Irina, Martha]  
 
-Merged: [Big, Chuck, George, Irina, Martha]
-
-Merged: [Alex, Big, Chuck, Debbie, Ely, Ferry, George, Irina, Jim, Martha]
+Merged: [Alex, Big, Chuck, Debbie, Ely, Ferry, George, Irina, Jim, Martha]  
