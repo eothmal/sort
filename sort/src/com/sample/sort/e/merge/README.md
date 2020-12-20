@@ -9,8 +9,8 @@ The complexity if mere sort is O(N logN).
 - Merge sort is not adaptive. 
 - it is a stable sort.
 - It take O(N) extra space when we use array (all smaller lists we create in the divide phase)
-
-Example:
+  
+Example:  
 [Ferry, Debbie, Alex, Jim, Ely, Irina, George, Big, Martha, Chuck]  
 
  Split: [Ferry, Debbie, Alex, Jim, Ely]  [Irina, George, Big, Martha, Chuck]  

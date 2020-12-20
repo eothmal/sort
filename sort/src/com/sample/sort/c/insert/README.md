@@ -7,6 +7,8 @@ It is a stable sort -
 It takes O(1) extra space, it is sort in place.  
 It makes O(N^2) comparisons and O(N^2) swaps.   
 
+  
+Example:  
 [4, 5, 3, 2, 1, 0, 6, 8, 9, 7]  
 
 Insert Sort : 0 to 1  

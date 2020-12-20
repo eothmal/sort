@@ -11,7 +11,7 @@ The list is partitioned with all elements smaller than the pivot on the other.
 - Just as in the case of other divide ad conquer algorithms (e.g. merge sort) the complexity has to be derived.
 The worst case time complexity is O(N^2)
 The average case time complexity is O(N logN)
-
+  
 Example:  `
 [Ferry, Debbie, Alex, Jim, Ely, Irina, George, Big, Martha, Chuck]  
 

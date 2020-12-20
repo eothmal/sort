@@ -9,7 +9,8 @@ Getting the exact complexity of shell sort is hard because it depends on the inc
 The best increment is N/2, N/4..1  
 Shell sort complexity is better than insertion sort as the final iteration with increment = 1 has to work with a nearly sorted list.  
 The complexity of shell sort is somewhere between O(N) and O(N^2). 
-
+  
+Example:  
 [60, 70, 80, 40, 30, 90, 120, 50, 100, 110]  
 
 i = 0 increment = 5  
